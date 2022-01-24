@@ -1,4 +1,4 @@
-cask 'clash-for-windows-binary' do
+cask 'clash-for-windows' do
     name "Clash for Windows"
     desc "A Windows/macOS/Linux GUI based on Clash and Electron."
     homepage "https://github.com/Fndroid/clash_for_windows_pkg"
